@@ -1,0 +1,19 @@
+
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ross-increment",
+          "submenu": [
+            {
+              "label": "Increment",
+              "command": "ross-increment:increment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

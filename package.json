@@ -1,0 +1,18 @@
+{
+  "name": "ross-increment",
+  "main": "./lib/ross-increment",
+  "version": "1.0.0",
+  "description": "Insert incremental numbers at cursors. Starts with number at 1st cursor, clean undo history.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "ross-increment:increment"
+  },
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
